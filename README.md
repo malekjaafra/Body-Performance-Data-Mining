@@ -1,11 +1,11 @@
-# 🏋️ Body Performance — Data Mining & Machine Learning
+#  Body Performance — Data Mining & Machine Learning
 
 **Author:** Malek Jaafra & May Zariat  
 **Program:** 2nd Year Big Data & Data Analytics  
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a Machine Learning classification study based on real-world biometric data from the Body Performance dataset (Kaggle).
 
@@ -19,7 +19,7 @@ The project includes:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Source: Kaggle — Body Performance Dataset  
 - - Link: [Body Performance Dataset](https://www.kaggle.com/datasets/kukuroo3/body-performance-data) 
@@ -67,7 +67,7 @@ The project includes:
 
 ---
 
-## 🤖 Model Performance
+##  Model Performance
 
 | Model | Accuracy |
 |------|----------|
@@ -79,13 +79,13 @@ The project includes:
 
 ---
 
-## 🏆 Key Result
+##  Key Result
 
 The Gradient Boosting model achieved the best performance with approximately **73% accuracy**, outperforming all other tested models.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas  
@@ -97,7 +97,7 @@ The Gradient Boosting model achieved the best performance with approximately **7
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 Body-Performance-Data-Mining/
 │
@@ -108,7 +108,7 @@ Body-Performance-Data-Mining/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning  
 - Feature selection optimization  
