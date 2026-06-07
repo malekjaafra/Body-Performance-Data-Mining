@@ -117,7 +117,7 @@ Body-Performance-Data-Mining/
 
 ---
 
-## 👩‍💻 Authors
+##  Authors
 
 - Malek Jaafra  
 - May Zariat    
